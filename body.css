@@ -1,12 +1,21 @@
-p {
-    font-size: 50px;
+h2{
+    font-size: 10px;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 80px;
     color: cornflowerblue;
     font-weight: bolder;
 
 }
 img{
-    font-size: 30px;
+    height: 200px;
+    margin-top: 10px;
+}
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
 
+.ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
 }
